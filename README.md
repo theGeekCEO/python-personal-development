@@ -9,7 +9,7 @@ It can perform simple mathematical operations like Addition ➕, Subtraction ➖
 - Have **Python [3.8](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)** or the latest version installed
 - Clone this repository
 ~~~~
-git clone ...
+git clone https://github.com/theGeekCEO/python-personal-development.git
 ~~~~
 - Open the **Command Prompt** and enter into the project repository
 ~~~~
