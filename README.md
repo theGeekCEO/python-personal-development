@@ -13,7 +13,7 @@ git clone https://github.com/theGeekCEO/python-personal-development.git
 ~~~~
 - Open the **Command Prompt** and enter into the project repository
 ~~~~
-cd python-calculator-project
+cd python-personal-development
 ~~~~
 - Run:
 ~~~~
